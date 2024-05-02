@@ -1,3 +1,5 @@
+@import url(personal.css);
+
 :root {
     /* delay before expanding tabs, set to '0' for no delay */
     --delay: 0.5s;
