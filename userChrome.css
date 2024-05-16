@@ -1,4 +1,5 @@
 @import url(personal.css);
+@import url(floating_findbar_on_top.css);
 
 :root {
     /* delay before expanding tabs, set to '0' for no delay */
