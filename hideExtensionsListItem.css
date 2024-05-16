@@ -1,0 +1,21 @@
+#unified-extensions-panel .unified-extensions-item[label="IDM Integration Module"], 
+#unified-extensions-panel .unified-extensions-item[label="Decentraleyes"], 
+#unified-extensions-panel .unified-extensions-item[label="Enhancer for YouTube™"],
+#unified-extensions-panel .unified-extensions-item[label="Privacy Badger"],
+#unified-extensions-panel .unified-extensions-item[label="Translate this page"],
+#unified-extensions-panel .unified-extensions-item[label="ClearURLs Add-on"],
+#unified-extensions-panel .unified-extensions-item[label="Show/hide Tab Center Reborn"],
+#unified-extensions-panel .unified-extensions-item[label="I don't care about cookies"],
+#unified-extensions-panel .unified-extensions-item[label="SponsorBlock"], 
+#unified-extensions-panel .unified-extensions-item[label="Return YouTube Dislike"], 
+#unified-extensions-panel .unified-extensions-item[label="Search by Image"], 
+#unified-extensions-panel .unified-extensions-item[label="BetterTTV"],
+#unified-extensions-panel .unified-extensions-item[label="Custom New Tab Page"],
+#unified-extensions-panel .unified-extensions-item[label="SteamDB"] {
+  display: none !important;
+}
+
+/* hide greyed out item in extensions list */
+.unified-extensions-list { 
+  display: none;
+}
