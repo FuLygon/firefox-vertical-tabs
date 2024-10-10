@@ -7,13 +7,17 @@
 #unified-extensions-panel .unified-extensions-item[label="Translate this page"],
 #unified-extensions-panel .unified-extensions-item[label="ClearURLs Add-on"],
 #unified-extensions-panel .unified-extensions-item[label="Show/hide Tab Center Reborn"],
-#unified-extensions-panel .unified-extensions-item[label="I don't care about cookies"],
+#unified-extensions-panel .unified-extensions-item[label="I still don't care about cookies"],
 #unified-extensions-panel .unified-extensions-item[label="SponsorBlock"], 
 #unified-extensions-panel .unified-extensions-item[label="Return YouTube Dislike"], 
 #unified-extensions-panel .unified-extensions-item[label="Search by Image"], 
 #unified-extensions-panel .unified-extensions-item[label="BetterTTV"],
 #unified-extensions-panel .unified-extensions-item[label="Custom New Tab Page"],
-#unified-extensions-panel .unified-extensions-item[label="SteamDB"] {
+#unified-extensions-panel .unified-extensions-item[label="SteamDB"],
+#unified-extensions-panel .unified-extensions-item[label="Free Download Manager extension"],
+#unified-extensions-panel .unified-extensions-item[label="FastForward"],
+#unified-extensions-panel .unified-extensions-item[label="Buster: Captcha Solver for Humans"],
+#unified-extensions-panel .unified-extensions-item[label="Bypass Paywalls Clean (c)"] {
   display: none !important;
 }
 
