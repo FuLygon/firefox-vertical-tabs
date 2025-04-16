@@ -7,3 +7,8 @@
 #urlbar #identity-box.extensionPage #identity-icon-label {
   display: none !important;
 }
+
+/* Forcing sidebar width */
+#sidebar-box {
+  min-width: 300px !important;
+}
