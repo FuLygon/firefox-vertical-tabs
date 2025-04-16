@@ -1,7 +1,7 @@
 /* center url text when not focused */
-#urlbar:not([focused]) .urlbar-input-box {
+/* #urlbar:not([focused]) .urlbar-input-box {
   text-align: center;
-}
+} */
 
 /* remove loaded from an extension label */
 #urlbar #identity-box.extensionPage #identity-icon-label {
