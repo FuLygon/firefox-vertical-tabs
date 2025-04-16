@@ -1,5 +1,9 @@
 # Firefox Vertical Tabs
 
+### This repo will be kinda **archived** from now on. I've switched to [Zen Browser](https://zen-browser.app) and I've heard that Firefox already implemented native vertical tab. The author for most of the vertical tab css seem to have stopped maintaining as well. That why the `main` branch will be **archived**. I'm still using this repo for storing my personal css for Zen Browser in `zen` branch. But probably not much since [Zen Mods](https://zen-browser.app/mods) already included a bunch of stuff that I need without needing to touch the css.
+
+-----
+
 Vertical tabs for Firefox, inspired by Edge. Works with Light theme, Dark
 theme, and System theme (auto dark mode). There are some minor glitches with
 Alpenglow, but they should be easy to fix.
