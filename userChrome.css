@@ -1,2 +1,6 @@
+/* Catppuccin Theme */
+@import url(catppuccin-theme/themes/Macchiato/Lavender/userChrome.css);
+
+/* Other stuff */
 @import url(hideExtensionsListItem.css);
 @import url(miscellaneous.css);

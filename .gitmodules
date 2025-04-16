@@ -1,0 +1,3 @@
+[submodule "catppuccin-theme"]
+	path = catppuccin-theme
+	url = https://github.com/catppuccin/zen-browser.git
